@@ -1,0 +1,711 @@
+/*switch css*/
+
+.switch{
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 22px;
+}
+.switch input{
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider{
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 22px;
+}
+
+.slider:before{
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider{
+    background-color: #2196F3;
+}
+
+input:focus + .slider{
+    box-shadow: 0 0 1px #2196F3;
+}
+input:checked + .slider:before{
+    -webkit-transform: translateX(18px);
+    -ms-transform: translateX(18px);
+    transform: translateX(18px);
+}
+
+jezikDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/*login css*/
+.dobrodosli{
+    color: #4b06585d;
+    margin-top: 30vh;
+}
+
+.loginDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 8px;
+    background-color: rgb(120, 120, 221);
+
+    margin: auto;
+    padding: 20px;
+    
+
+    height: 450px;
+    width: 450px;
+}
+
+body,html{
+    height: 100%;
+    margin: 0;
+}
+.logKontejner{
+    height: 100vh;
+    
+    font-family: 'Helvetica Neue', sans-serif;
+    background-image: url("./assets/backgroundLogin.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.logBtn,.logBtnGuest{
+    width: 250px;
+    height: 30px;
+    margin: 20px;
+
+    border: none;
+    background-color: rgb(35, 65, 163);
+    border-radius: 10px;
+}
+
+.logBtn:hover,.logBtnGuest:hover{
+    background-color: blueviolet;
+}
+.loginInU,.loginInP,.loginIn{
+    border-radius: 8px;
+    border: none;
+    width: 250px;
+    height: 30px;
+    background-color: rgba(86, 26, 182, 0.993);
+    margin: 10px;
+}
+
+.passUserDiv,.inDiv{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.rad{
+    margin: 10px;
+    color: rgba(86, 26, 182, 0.993);
+    border: none;
+
+}
+.reg:hover{
+    color:blue;
+}
+/*--------------------------------------------------------------------------*/
+.head{
+    display: flex;
+    height: 15vh;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    
+    
+    /*background-color: #653780;*/
+    /*background-color: #3f1651;*/
+    background-color: #653780;
+    padding: 20px;
+}
+
+.logDiv{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+
+.logo{
+    color:rgb(45, 14, 48);
+    font-family: monospace;
+    background-color: rgba(48, 18, 95, 0.616);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.searchDiv{
+    display: flex;
+    height: 15vh;
+    justify-content: center;
+    align-items: center;
+
+    margin: 35px;
+}
+/*Admin css*/
+
+.dropdown{
+    max-height:250px;
+    overflow:auto;
+    border: solid black;
+}
+.dropDiv{
+    z-index: 1;
+    position: absolute;
+    overflow: auto;
+    min-width: 170px;
+    max-height: 20vh;
+    background-color: #653780;
+}
+.opcija{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+
+}
+.opcija:hover{
+    background-color: #E53F71;
+}
+.ban{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(119, 10, 10, 0.829);
+    width: 80vw;
+    height: 10vh;
+    padding: 20px;
+    border: 1px solid rgb(52, 4, 58);
+}
+.noBan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(10, 119, 25, 0.829);
+    width: 80vw;
+    height: 10vh;
+    padding: 20px;
+    border: 1px solid #5a4469;
+}
+
+.korisnik{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #9C3587;
+    /*#150a77b0*/
+    width: 80vw;
+    height: 10vh;
+    padding: 20px;
+    border: 1px solid #653780;
+    border-radius: 5px;
+}
+.korisnik:hover{
+    background-color: #E53F71;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.hoverDiv{
+    display: flex;
+}
+
+.phh{
+    margin-top: 150px;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.opcijaBtn{
+    min-width: 10vw;
+    min-height: 8vh;
+    border: none;
+    background-color: #9C3587;
+    border-radius: 2px;
+}
+.opcijaBtn:hover{
+    background-color: #E53F71;
+}
+
+.opcijeDiv{
+    background-color: #F89F5B;
+}
+
+.srcDiv{
+    margin: 10px;
+}
+
+.z1{
+    z-index: 1;
+    position: absolute;
+}
+
+.izmenaDiv{
+    background-color: #0000005e;
+    padding: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.initialDiv{
+    background-color: #E53F71;
+}
+
+.divv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border: black solid 1px;
+}
+.formDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 600px;
+    background-color: #F89F5B;
+    border-radius: 6px;
+
+    max-height:60%;
+    overflow-y: auto;
+}
+.formDiv > *, .unosDiv > *{
+    margin: 5px;
+}
+/*^^^^^*/
+.dodajDiv{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.521);
+    width: 100%;
+    height: 100%;
+}
+
+.unosDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 47vw;
+    height: 27vh;
+    background-color: #F89F5B;;
+    border-radius: 6px;
+}
+
+
+.dugme{
+    min-width: 45px;
+    min-height: 30px;
+    border-radius: 4px;
+    border-width: 1px;
+    background-color: #9C3587;
+}
+.dugme:hover{
+    background-color: #E53F71;
+}
+
+.inp{
+    min-width: 45px;
+    min-height: 25px;
+    border-radius: 4px;
+    border-width: 1px;
+    background-color: #bf9de4a8;
+}
+/*-------------------------*/
+.PodaciDivKorisnik
+{
+    
+    display: flex;
+    flex-direction: row;
+}
+.Tipl
+{
+    margin-left: 620%;
+    font-weight:bold;
+    text-transform: uppercase;    
+    color: aqua;
+}
+.ImeK
+{
+    color: aqua;
+}
+.opcijeKorisnik
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    
+}
+.btnPrijajviSe
+{
+    background: rgba(86, 26, 182, 0.993);
+    color:aqua;
+}
+.btnKorisnik
+{
+    margin: 1.5%;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: rgba(86, 26, 182, 0.993);
+}
+.btnKorisnik {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: aqua;
+    background: rgba(86, 26, 182, 0.993);
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+.btnKorisnik:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.btnKorisnik:active {
+    color: rgba(86, 26, 182, 0.993)
+}
+
+.btnKorisnik:active:after {
+    background: transparent;
+}
+
+.btnKorisnik:hover:before {
+    opacity: 1;
+}
+
+.btnKorisnik:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(86, 26, 182, 0.993);
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+.srcKorisnik {
+    width: 100px;
+    border: none;
+    outline: none;
+    color: aqua;
+    background: rgba(86, 26, 182, 0.993);
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+}
+
+.srcKorisnik:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.srcKorisnik:active {
+    color: rgba(86, 26, 182, 0.993)
+}
+
+.srcKorisnik:active:after {
+    background: transparent;
+}
+
+.srcKorisnik:hover:before {
+    opacity: 1;
+}
+
+.srcKorisnik:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(86, 26, 182, 0.993);
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+}
+.DodajListuPrevoznik
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+   
+}
+.listaPrevoznik
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid black;
+    width: 20vw;
+    height: 5vh;
+    
+
+}
+.PrevoznikViewDiv{
+    display: flex;
+    justify-content: center;
+}
+.labelaPV
+{
+    margin-right: 5%;
+    justify-content: space-between;
+   
+}
+
+.divPS, .divPolaska, .divDStanica, .divDDolaska
+{
+    margin: 10px;
+}
+
+.divPS:hover{
+    background-color: #4400ff;
+}
+
+/***********************************************/
+
+.pbody,.placeholder,.kontejner{
+    background-color: #f89f5b;
+}
+
+.pbody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.placeholder{
+    display: flex;
+    flex-direction: column;
+    /*#ab3bec36*/
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+
+}
+
+.kontejner{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+/*-*********************************/
+.linijaDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-width: 10vw;
+    min-height: 10vh;
+    padding: 20px;
+    margin: 5px;
+
+    background-color: #9C3587;
+    border: 2px solid #653780;
+    border-radius: 5px;
+}
+
+.prevDiv:hover,.divDStanica:hover,.divPS:hover{
+    background-color: #E53F71;
+    border-radius: 20px;
+}
+
+
+.inputFld{
+    width: 50%;
+    height: 30%;
+}
+.LoginGost
+{
+    margin: 1.5%;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+}
+.LoginGost {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: aqua;
+    background: transparent;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+.LoginGost:before {
+    content: '';
+    background: linear-gradient(45deg, #3717e7, #0d376e, #5638ff, #0059ff, #00ffd5, #002bff, #7a00ff);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.LoginGost:active {
+    color: transparent;
+}
+
+.LoginGost:active:after {
+    background: transparent;
+}
+
+.LoginGost:hover:before {
+    opacity: 1;
+}
+
+.LoginGost:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(187, 137, 235, 0.37);
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+
+}
+.prevoznikLab1
+{
+    margin-left: 10px;
+}
+
+.divPS2, .divDStanica2, .labelaDDolaska2, .labelaDStanica2, .prevoznikLab2 , .prevDiv2,.labelaDPolaska2,.prevoznikLab2
+{
+    margin: 0px;
+}
+
+.linDiv{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px;
+}
+
+.jezLog{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 30vw;
+}
+.zastave
+{
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 2px;
+    margin-top: px;
+}
+
+
+

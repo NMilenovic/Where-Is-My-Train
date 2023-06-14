@@ -1,0 +1,433 @@
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.json
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\FE\package\package.json
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.exe
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.deps.json
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.json
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.dev.json
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.pdb
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Humanizer.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfoInputs.cache
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfo.cs
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.Manifest.cache
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.xml
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\scopedcss\bundle\Aplikacija.styles.css
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.RazorTargetAssemblyInfo.cache
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CopyComplete
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.pdb
+C:\Users\t\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.genruntimeconfig.cache
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.json
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\FE\package\package.json
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.exe
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.deps.json
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.json
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.dev.json
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.pdb
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfoInputs.cache
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfo.cs
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.Manifest.cache
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.xml
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\scopedcss\bundle\Aplikacija.styles.css
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.RazorTargetAssemblyInfo.cache
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CopyComplete
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.pdb
+C:\Users\SS\Desktop\projsw\Projekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.genruntimeconfig.cache
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.Development.json
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\FE\package\package.json
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.json
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.exe
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.deps.json
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.json
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.dev.json
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\ref\Aplikacija.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.pdb
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Humanizer.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.AssemblyReference.cache
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfoInputs.cache
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfo.cs
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CoreCompileInputs.cache
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cs
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cache
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.Manifest.cache
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.xml
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\scopedcss\bundle\Aplikacija.styles.css
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.RazorTargetAssemblyInfo.cache
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CopyComplete
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\ref\Aplikacija.dll
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.pdb
+D:\Fakultet\3. godina\SIIProjekat\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.genruntimeconfig.cache
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\FE\package\package.json
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.json
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.exe
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.deps.json
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.json
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.dev.json
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.pdb
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.AssemblyReference.cache
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfoInputs.cache
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfo.cs
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.Manifest.cache
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.xml
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\scopedcss\bundle\Aplikacija.styles.css
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.RazorTargetAssemblyInfo.cache
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.pdb
+C:\Users\Lizurd\Desktop\ProjekatSWE\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.genruntimeconfig.cache
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.json
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\FE\package\package.json
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.exe
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.deps.json
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.json
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.dev.json
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.pdb
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfoInputs.cache
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfo.cs
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.Manifest.cache
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.xml
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\scopedcss\bundle\Aplikacija.styles.css
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.RazorTargetAssemblyInfo.cache
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CopyComplete
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.pdb
+C:\Users\SS\Desktop\swe2 Proj\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.genruntimeconfig.cache
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.json
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\FE\package\package.json
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.exe
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.deps.json
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.json
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.dev.json
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.pdb
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csprojAssemblyReference.cache
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfoInputs.cache
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfo.cs
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.Manifest.cache
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.xml
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\scopedcss\bundle\Aplikacija.styles.css
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.RazorTargetAssemblyInfo.cache
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CopyComplete
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\ref\Aplikacija.dll
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.pdb
+C:\Users\SS\Desktop\swe sa bootsom full\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.genruntimeconfig.cache
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.Development.json
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\appsettings.json
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\FE\package\package.json
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.exe
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.deps.json
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.json
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.runtimeconfig.dev.json
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\ref\Aplikacija.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Aplikacija.pdb
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Humanizer.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.AssemblyReference.cache
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfoInputs.cache
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.AssemblyInfo.cs
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CoreCompileInputs.cache
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cs
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.MvcApplicationPartsAssemblyInfo.cache
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.Manifest.cache
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\staticwebassets\Aplikacija.StaticWebAssets.xml
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\scopedcss\bundle\Aplikacija.styles.css
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.RazorTargetAssemblyInfo.cache
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.csproj.CopyComplete
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\ref\Aplikacija.dll
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.pdb
+D:\Fakultet\ProjekatSI\si.22.68.where_is_my_train\Aplikacija\obj\Debug\net5.0\Aplikacija.genruntimeconfig.cache
